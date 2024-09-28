@@ -121,3 +121,11 @@ Thumbs.db
 /dist
 package-lock.json
 /.idea/
+
+# SonarQube directories
+.sonar/
+.sonarlint/
+
+# Other ignores
+*.log
+target/
